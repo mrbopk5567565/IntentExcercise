@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IntentExcercise</string>
+    <string-array name="list_name">
+        <item>bird1</item>
+        <item>bird2</item>
+        <item>bird3</item>
+        <item>bird4</item>
+        <item>bird5</item>
+        <item>bird6</item>
+        <item>bird7</item>
+        <item>bird8</item>
+        <item>bird9</item>
+        <item>bird10</item>
+        <item>bird11</item>
+        <item>bird12</item>
+        <item>bird13</item>
+        <item>bird14</item>
+        <item>bird15</item>
+        <item>bird16</item>
+        <item>bird17</item>
+        <item>bird18</item>
+    </string-array>
+</resources>
